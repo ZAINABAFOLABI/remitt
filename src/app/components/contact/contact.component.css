@@ -1,0 +1,29 @@
+ /*Contact Form*/
+
+ #contact-form{
+  background-color: orange;
+}
+#contact-form .form-group{
+ margin-bottom: 20px;
+}
+#contact-form label{
+ margin-bottom: 5px;
+ display: block;
+}
+
+#contact-form input, #contact-form textarea{
+ width: 100%;
+ padding: 10px;
+ border:rgb(233, 208, 208) 2px solid;
+}
+
+#contact-form textarea{
+ height: 200px;
+}
+
+#contact-form input:focus,
+#contact-form textarea:focus {
+ outline :none;
+ border-color:coral;
+
+}
