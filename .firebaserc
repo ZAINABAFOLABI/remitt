@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ads-dashboard-3c5c0": {
+      "hosting": {
+        "ADS": [
+          "ads-dashboard-3c5c0"
+        ]
+      }
+    }
+  }
+}

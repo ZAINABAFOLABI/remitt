@@ -1,0 +1,85 @@
+/*ABOUT*/
+.sub-bg{
+  height:600px;
+  width: 45vw;
+  float: right;
+  background-color: orange;
+  background: white;
+  color: orange;
+  padding: 100px;
+  padding-top: 60px;
+  border-radius: 30px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.font-style1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+  
+}
+
+a:hover{
+  background:orange;
+  color: white;
+  padding:10px;
+}
+
+.text-medium{
+  font-size: 20px;
+}
+
+.text-large{
+  font-size: 40px;
+}
+
+.text-larger{
+  font-size: 50px;
+}
+
+.text-style1{
+  color: orange;
+  
+}
+
+.text-style3{
+  color: orange;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+.text-decoration-primary{
+  text-decoration: underline dotted 10px orange;
+}
+#OUR-HISTORY{
+  background: rgb(228, 149, 4);
+  background-image: url(https://cdn.corporatefinanceinstitute.com/assets/banking-fundamentals-1024x734.jpeg);
+  /* background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fstock-photo%2Fvision_mission.html&psig=AOvVaw3s46KwyYMEPgcQfs2BxIHr&ust=1639557803056000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjO6fby4vQCFQAAAAAdAAAAABAD) no-repeat center center/cover; */
+  height: 100vh;
+  
+  padding: 3rem;
+  line-height: 1.7rem;
+  color: white;
+}
+
+.btn-orange{
+  background:orange;
+  padding: 5px;
+ 
+  color: white;
+  border-radius:15px;
+
+}
+
+.lg-height{
+  line-height: 1.9rem;
+}
+
+.footer{
+  width: 100%;
+  height:500px;
+  text-align: center;
+  padding: 20px;
+  background: #444;
+  color:#f4f4f4;
+}
